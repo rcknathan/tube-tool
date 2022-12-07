@@ -22,7 +22,7 @@
 <br>
 <p>O programa é feito 100% em Python</p>
 
-<h4>Observações:</h4>
+<h3>Observações:</h3>
 <p>icon.ico é utilizado no ícone do programa</p>
 <p>interface.py se refere à iinterface do programa</p>
 <p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
