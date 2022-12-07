@@ -24,5 +24,5 @@
 
 <h3>Observações:</h3>
 <p>icon.ico é utilizado no ícone do programa</p>
-<p>interface.py se refere à iinterface do programa</p>
+<p>interface.py se refere à interface do programa</p>
 <p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
