@@ -15,9 +15,14 @@
 <p>- Necessita da biblioteca "clipboard"</p>
 
 <h3>Como instalar os imports:</h3>
-<p>É necessário ter o pip instalado no computador</p>
+<p>Obs: É necessário ter o pip instalado no computador</p>
 <p>1. Abra o terminal</p>
 <p>2. Digite no terminal o seguinte comando: pip install <nome_da_biblioteca></p>
 <p>3. Verifique se as bibliotecas foram importadas corretamente</p>
 <br>
 <p>O programa é feito 100% em Python</p>
+
+<h4>Observações:</h4>
+<p>icon.ico é utilizado no ícone do programa</p>
+<p>interface.py se refere à iinterface do programa</p>
+<p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
