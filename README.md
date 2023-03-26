@@ -9,7 +9,7 @@
 <p>- É possível baixar o vídeo em MP4 (Alta e Baixa qualidades) e MP3.</p>
 
 <h3>Requisitos (Código):</h3>
-<nobr> <p>- Necessita da biblioteca</p> <a href="https://pytube.io/en/latest/">pytube</a> </nobr>
+<nobr><p>- Necessita da biblioteca</p><a href="https://pytube.io/en/latest/">pytube</a></nobr>
 <p>- Necessita da biblioteca</p><a href="https://docs.python.org/3/library/tk.html">tkinter</a>
 <p>- Necessita da biblioteca</p><a href="https://zulko.github.io/moviepy/">moviepy</a>
 <p>- Necessita da biblioteca</p><a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a>
