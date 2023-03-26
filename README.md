@@ -9,10 +9,10 @@
 <p>- É possível baixar o vídeo em MP4 (Alta e Baixa qualidades) e MP3.</p>
 
 <h3>Requisitos (Código):</h3>
-<p>- Necessita da biblioteca "pytube"</p>
-<p>- Necessita da biblioteca "tkinter"</p>
-<p>- Necessita da biblioteca "moviepy"</p>
-<p>- Necessita da biblioteca "clipboard"</p>
+<p>- Necessita da biblioteca "<a href:"https://pytube.io/en/latest/">pytube</a>"</p>
+<p>- Necessita da biblioteca "<a href:"https://docs.python.org/3/library/tk.html">tkinter</a>"</p>
+<p>- Necessita da biblioteca "<a href:"https://zulko.github.io/moviepy/">moviepy</a>"</p>
+<p>- Necessita da biblioteca "<a href:"http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a>"</p>
 
 <h3>Como instalar os imports:</h3>
 <p>Obs: É necessário ter o pip instalado no computador</p>
