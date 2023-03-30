@@ -7,8 +7,8 @@
 <p>O projeto consiste em um downloader de vídeos do YouTube utilizando apenas o link (URL) do vídeo.</p>
 
 <h3><strong>Funcionalidades:</strong></h3>
-<p> - É possível baixar vídeos do YouTube colando a URL do vídeo na aplicação.</p>
-<p> - É possível baixar o vídeo em MP4 (Alta ou Baixa qualidade) e MP3.</p>
+<p>• É possível baixar vídeos do YouTube colando a URL do vídeo na aplicação.</p>
+<p>• É possível baixar o vídeo em MP4 (Alta ou Baixa qualidade) e MP3.</p>
 
 <h3><strong>Requisitos (Para o código):</strong></h3>
 <p>✔️ Necessita da biblioteca <a href="https://pytube.io/en/latest/">pytube</a></p>
@@ -18,18 +18,18 @@
 
 <h3><strong>Como instalar as bibliotecas:</strong></h3>
 <p><strong>Obs:</strong> É necessário ter o pip instalado no computador</p>
-<p><strong>1.</strong> Abra o terminal</p>
-<p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca</p>
-<p><strong>3.</strong> Verifique se as bibliotecas foram importadas corretamente</p>
+<p>• <strong>1.</strong> Abra o terminal</p>
+<p>• <strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca</p>
+<p>• <strong>3.</strong> Verifique se as bibliotecas foram importadas corretamente</p>
 
 <h3><strong>Observações:</strong></h3>
-<p><u>icon.ico</u> é utilizado no ícone do programa</p>
-<p><u>interface.py</u> se refere à interface do programa</p>
-<p><u>youtube_download.py</u> se refere ao funcionamento do download de vídeos</p>
+<p>• icon.ico é utilizado no ícone do programa</p>
+<p>• interface.py se refere à interface do programa</p>
+<p>• youtube_download.py se refere ao funcionamento do download de vídeos</p>
 
 <h3>Sobre</h3>
-<p>- O programa foi construído 100% na linguagem de programação Python</p>
-<p>- O programa foi construído através do editor de código (Visual Studio Code)</p>
+<p>• O programa foi construído 100% na linguagem de programação Python</p>
+<p>• O programa foi construído através do editor de código (Visual Studio Code)</p>
 
 <h1></h1>
 
