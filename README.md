@@ -11,10 +11,10 @@
 <p> - É possível baixar o vídeo em MP4 (Alta ou Baixa qualidade) e MP3.</p>
 
 <h3><strong>Requisitos (Para o código):</strong></h3>
-<p>- ✔️ Necessita da biblioteca <a href="https://pytube.io/en/latest/">pytube</a></p>
-<p>- ✔️ Necessita da biblioteca <a href="https://docs.python.org/3/library/tk.html">tkinter</a></p>
-<p>- ✔️ Necessita da biblioteca <a href="https://zulko.github.io/moviepy/">moviepy</a></p>
-<p>- ✔️ Necessita da biblioteca <a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a></p>
+<p>✔️ Necessita da biblioteca <a href="https://pytube.io/en/latest/">pytube</a></p>
+<p>✔️ Necessita da biblioteca <a href="https://docs.python.org/3/library/tk.html">tkinter</a></p>
+<p>✔️ Necessita da biblioteca <a href="https://zulko.github.io/moviepy/">moviepy</a></p>
+<p>✔️ Necessita da biblioteca <a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a></p>
 
 <h3><strong>Como instalar as bibliotecas:</strong></h3>
 <p><strong>Obs:</strong> É necessário ter o pip instalado no computador</p>
@@ -23,9 +23,9 @@
 <p><strong>3.</strong> Verifique se as bibliotecas foram importadas corretamente</p>
 
 <h3><strong>Observações:</strong></h3>
-<p>icon.ico é utilizado no ícone do programa</p>
-<p>interface.py se refere à interface do programa</p>
-<p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
+<p><u>icon.ico</u> é utilizado no ícone do programa</p>
+<p><u>interface.py</u> se refere à interface do programa</p>
+<p><u>youtube_download.py</u> se refere ao funcionamento do download de vídeos</p>
 
 <h3>Sobre</h3>
 <p>- O programa foi construído 100% na linguagem de programação Python</p>
