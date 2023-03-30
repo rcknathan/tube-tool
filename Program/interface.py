@@ -3,9 +3,16 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
 import clipboard as clip
+import sys, os
 
 #Importação De Arquivos
 import youtube_download as youtube
+
+#Procura o ícone do programa quando é executado no computador do usuário
+def resource_path(relative_path):
+        if hasattr(sys, '_MEIPASS'):
+            return os.path.join(sys._MEIPASS, relative_path)
+        return os.path.join(os.path.abspath("."), relative_path)
 
 #Função que executa a ação do botão de colar texto da área de transferência
 def pasteLink():
@@ -22,7 +29,7 @@ screen = Tk()
 
 screen.title("TubeTool")
 screen["background"] = "#ffffff"
-screen.iconbitmap("icon.ico")
+screen.iconbitmap(resource_path("icon.ico"))
 screen.geometry("500x290+500+100")
 screen.resizable(width=0, height=0)
 
