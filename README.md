@@ -3,8 +3,7 @@
 </header>
 
 <h3>Descrição:</h3>
-<p>Project TubeTool é um projeto construído no primeiro período do curso de graduação em Ciências da Computação na Universidade Estadual Da Paraíba (UEPB) - Campus I.</p>
-<p>O projeto consiste em um downloader de vídeos do YouTube utilizando apenas o link (URL) do vídeo.</p>
+<p>Project TubeTool é um projeto construído no primeiro período do curso de graduação em Ciências da Computação na Universidade Estadual Da Paraíba (UEPB) - Campus I. O projeto consiste em um downloader de vídeos do YouTube utilizando apenas o link (URL) do vídeo.</p>
 
 <h3><strong>Funcionalidades:</strong></h3>
 <p>• É possível baixar vídeos do YouTube colando a URL do vídeo na aplicação.</p>
