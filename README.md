@@ -29,5 +29,5 @@
 <p>interface.py se refere à interface do programa</p>
 <p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
