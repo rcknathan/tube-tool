@@ -2,6 +2,7 @@
   <h1><strong>Project TubeTool</strong></h1>
 </header>
 
+<h3>Descrição:</h3>
 <p>Project TubeTool é um projeto construído no primeiro período do curso de graduação em Ciências da Computação</p>
 <p>Universidade Estadual Da Paraíba (UEPB) - Campus I</p>
 <p>O projeto consiste em um downloader de vídeos do YouTube através da URL</p>
@@ -16,13 +17,14 @@
 <p>- Necessita da biblioteca <a href="https://zulko.github.io/moviepy/">moviepy</a></p>
 <p>- Necessita da biblioteca <a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a></p>
 
-<h3><strong>Como instalar as bibliotecas (VS Code):</strong></h3>
+<h3><strong>Como instalar as bibliotecas:</strong></h3>
 <p><strong>Obs:</strong> É necessário ter o pip instalado no computador</p>
 <p><strong>1.</strong> Abra o terminal</p>
 <p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca</p>
 <p><strong>3.</strong> Verifique se as bibliotecas foram importadas corretamente</p>
 <br>
-<p>O programa é feito 100% em Python</p>
+<p>O programa foi construído 100% na linguagem de programação Python</p>
+<p>O programa foi construído através do editor de código (Visual Studio Code)</p>
 
 <h3><strong>Observações:</strong></h3>
 <p>icon.ico é utilizado no ícone do programa</p>
