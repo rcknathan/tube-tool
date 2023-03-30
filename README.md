@@ -21,14 +21,15 @@
 <p><strong>1.</strong> Abra o terminal</p>
 <p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca</p>
 <p><strong>3.</strong> Verifique se as bibliotecas foram importadas corretamente</p>
-<br>
-<p>O programa foi construído 100% na linguagem de programação Python</p>
-<p>O programa foi construído através do editor de código (Visual Studio Code)</p>
 
 <h3><strong>Observações:</strong></h3>
 <p>icon.ico é utilizado no ícone do programa</p>
 <p>interface.py se refere à interface do programa</p>
 <p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
+
+<h3>Sobre</h3>
+<p>- O programa foi construído 100% na linguagem de programação Python</p>
+<p>- O programa foi construído através do editor de código (Visual Studio Code)</p>
 
 <h1></h1>
 
