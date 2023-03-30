@@ -16,7 +16,7 @@
 <p>✔️ Necessita da biblioteca <a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a></p>
 
 <h3><strong>Como instalar as bibliotecas:</strong></h3>
-<p><strong>Obs:</strong> É necessário ter o pip instalado no computador</p>
+<blockquote><strong>Obs:</strong> É necessário ter o pip instalado no computador</blockquote>
 <p><strong>1.</strong> Abra o terminal;</p>
 <p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca;</p>
 <p><strong>3.</strong> No código, verifique se as bibliotecas foram importadas corretamente.</p>
