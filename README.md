@@ -7,8 +7,8 @@
 <p>O projeto consiste em um downloader de vídeos do YouTube através da URL</p>
 
 <h3><strong>Funcionalidades:</strong></h3>
-<p>- É possível baixar vídeos do YouTube colando a URL.</p>
-<p>- É possível baixar o vídeo em MP4 (Alta e Baixa qualidades) e MP3.</p>
+<p> - É possível baixar vídeos do YouTube colando a URL do vídeo na aplicação.</p>
+<p> - É possível baixar o vídeo em MP4 (Alta ou Baixa qualidade) e MP3.</p>
 
 <h3><strong>Requisitos (Código):</strong></h3>
 <p>- Necessita da biblioteca <a href="https://pytube.io/en/latest/">pytube</a></p>
@@ -16,11 +16,11 @@
 <p>- Necessita da biblioteca <a href="https://zulko.github.io/moviepy/">moviepy</a></p>
 <p>- Necessita da biblioteca <a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a></p>
 
-<h3><strong>Como instalar os imports:</strong></h3>
-<p>Obs: É necessário ter o pip instalado no computador</p>
-<p>1. Abra o terminal</p>
-<p>2. Digite no terminal o seguinte comando: pip install nome_da_biblioteca</p>
-<p>3. Verifique se as bibliotecas foram importadas corretamente</p>
+<h3><strong>Como instalar as bibliotecas:</strong></h3>
+<p><strong>Obs:</strong> É necessário ter o pip instalado no computador</p>
+<p><strong>1.</strong> Abra o terminal</p>
+<p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca</p>
+<p><strong>3.</strong> Verifique se as bibliotecas foram importadas corretamente</p>
 <br>
 <p>O programa é feito 100% em Python</p>
 
