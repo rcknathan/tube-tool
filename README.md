@@ -29,7 +29,7 @@
 <p>interface.py se refere à interface do programa</p>
 <p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
 
-<h1>Linguagem Utilizada</h1>
+<h1></h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
           
