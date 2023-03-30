@@ -1,5 +1,5 @@
 <header>
-  <h1>Project TubeTool</h1>
+  <h1><strong>Project TubeTool</strong></h1>
 </header>
 
 <p>Project TubeTool é um projeto construído no primeiro período do curso de graduação em Ciências da Computação</p>
@@ -28,7 +28,3 @@
 <p>icon.ico é utilizado no ícone do programa</p>
 <p>interface.py se refere à interface do programa</p>
 <p>youtube_download.py se refere ao funcionamento do download de vídeos</p>
-
-<footer>
-  <p>P</p>
-</footer>
