@@ -17,9 +17,9 @@
 
 <h3><strong>Como instalar as bibliotecas:</strong></h3>
 <p><strong>Obs:</strong> É necessário ter o pip instalado no computador</p>
-<p><strong>1.</strong> Abra o terminal</p>
-<p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca</p>
-<p><strong>3.</strong> Verifique se as bibliotecas foram importadas corretamente</p>
+<p><strong>1.</strong> Abra o terminal;</p>
+<p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca;</p>
+<p><strong>3.</strong> No código, verifique se as bibliotecas foram importadas corretamente.</p>
 
 <h3><strong>Observações:</strong></h3>
 <p>• icon.ico é utilizado no ícone do programa</p>
