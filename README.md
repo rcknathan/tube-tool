@@ -22,9 +22,10 @@
 <p><strong>3.</strong> No código, verifique se as bibliotecas foram importadas corretamente.</p>
 
 <h3><strong>Observações:</strong></h3>
-<p>• <i>icon.ico</i> é utilizado no ícone do programa</p>
-<p>• <i>interface.py</i> se refere à interface do programa</p>
-<p>• <i>youtube_download.py</i> se refere ao funcionamento do download de vídeos</p>
+<p>• <i>icon.ico</i> é utilizado no ícone do programa.</p>
+<p>• <i>interface.py</i> se refere à interface do programa.</p>
+<p>• <i>youtube_download.py</i> se refere ao funcionamento do download de vídeos.</p>
+<p>• <i>TubeTool.exe</i> é o arquivo executável do programa.</p>
 
 <h3>Sobre</h3>
 <p>• O programa foi construído 100% na linguagem de programação Python</p>
