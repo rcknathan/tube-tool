@@ -10,7 +10,7 @@
 <p> - É possível baixar vídeos do YouTube colando a URL do vídeo na aplicação.</p>
 <p> - É possível baixar o vídeo em MP4 (Alta ou Baixa qualidade) e MP3.</p>
 
-<h3><strong>Requisitos (Para O Código):</strong></h3>
+<h3><strong>Requisitos (Para o código):</strong></h3>
 <p>- Necessita da biblioteca <a href="https://pytube.io/en/latest/">pytube</a></p>
 <p>- Necessita da biblioteca <a href="https://docs.python.org/3/library/tk.html">tkinter</a></p>
 <p>- Necessita da biblioteca <a href="https://zulko.github.io/moviepy/">moviepy</a></p>
