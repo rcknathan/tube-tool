@@ -25,7 +25,7 @@
 <p>• <i>icon.ico</i> é utilizado no ícone do programa.</p>
 <p>• <i>interface.py</i> se refere à interface do programa.</p>
 <p>• <i>youtube_download.py</i> se refere ao funcionamento do download de vídeos.</p>
-<p>• <i>Você pode baixar o arquivo executável do TubeTool na seção de <i>Releases</i> .</p>
+<p>• Você pode baixar o arquivo executável do TubeTool na seção de <i>Releases</i> .</p>
 
 <h3>Sobre</h3>
 <p>• O programa foi construído 100% na linguagem de programação Python</p>
