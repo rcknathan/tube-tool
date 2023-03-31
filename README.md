@@ -30,6 +30,8 @@
 <h3>Sobre</h3>
 <p>• O programa foi construído 100% na linguagem de programação Python</p>
 <p>• O programa foi construído através do editor de código (Visual Studio Code)</p>
+<br>
+<p>⚠️ O executável está comprimido (.rar) devido ao seu tamanho</p>
 
 <h1></h1>
 
