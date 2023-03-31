@@ -1,6 +1,6 @@
 #Importação De Bibliotecas
 from pytube import YouTube
-import moviepy.editor 
+import moviepy.audio.io.AudioFileClip as moviepy
 import re
 import os
 from threading import Thread
@@ -52,8 +52,8 @@ def downloadExecute():
                         mp4 = os.path.join(path, file)
                         mp3 = os.path.join(path, os.path.splitext(title)[0]+'.mp3')
 
-                        newFile = moviepy.editor.AudioFileClip(mp4)
-                        newFile.write_audiofile(mp3)
+                        newFile = moviepy.AudioFileClip(mp4)
+                        newFile.write_audiofile(mp3, logger=None)
 
                         os.remove(path + f'/{title}.mp4')
 
