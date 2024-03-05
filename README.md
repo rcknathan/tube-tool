@@ -35,3 +35,11 @@
 
 <a href="https://www.python.org/">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 <a href="https://code.visualstudio.com/">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
+
+<h2>Skill acquired with this project</h2>
+
+<p align="center">
+  <a href="https://github.com/rcknathan">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
