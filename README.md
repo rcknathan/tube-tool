@@ -2,7 +2,7 @@
   <h1><strong>Project TubeTool</strong></h1>
 </header>
 
-<h3>Descrição:</h3>
+<h3>Description:</h3>
 <p>Project TubeTool is a project built in the first period of the undergraduate course in Computer Science at Universidade Estadual Da Paraíba (UEPB) - Campus I. The project consists of a YouTube video downloader using only the link (URL) of the video.</p>
 
 <h3><strong>Functionalities:</strong></h3>
