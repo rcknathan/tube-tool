@@ -3,33 +3,33 @@
 </header>
 
 <h3>Descrição:</h3>
-<p>Project TubeTool é um projeto construído no primeiro período do curso de graduação em Ciências da Computação na Universidade Estadual Da Paraíba (UEPB) - Campus I. O projeto consiste em um downloader de vídeos do YouTube utilizando apenas o link (URL) do vídeo.</p>
+<p>Project TubeTool is a project built in the first period of the undergraduate course in Computer Science at Universidade Estadual Da Paraíba (UEPB) - Campus I. The project consists of a YouTube video downloader using only the link (URL) of the video.</p>
 
-<h3><strong>Funcionalidades:</strong></h3>
-<p>• É possível baixar vídeos do YouTube colando a URL do vídeo na aplicação.</p>
-<p>• É possível baixar o vídeo em MP4 (Alta ou Baixa qualidade) e MP3.</p>
+<h3><strong>Functionalities:</strong></h3>
+<p>• You can download YouTube videos by pasting the video URL into the application.</p>
+<p>• It is possible to download the video in MP4 (High or Low quality) and MP3.</p>
 
-<h3><strong>Requisitos (Para o código):</strong></h3>
-<p>✔️ Necessita da biblioteca <a href="https://pytube.io/en/latest/">pytube</a></p>
-<p>✔️ Necessita da biblioteca <a href="https://docs.python.org/3/library/tk.html">tkinter</a></p>
-<p>✔️ Necessita da biblioteca <a href="https://zulko.github.io/moviepy/">moviepy</a></p>
-<p>✔️ Necessita da biblioteca <a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a></p>
+<h3><strong>Requirements (For Dev's):</strong></h3>
+<p>✔️ Need the library <a href="https://pytube.io/en/latest/">pytube</a></p>
+<p>✔️ Need the library <a href="https://docs.python.org/3/library/tk.html">tkinter</a></p>
+<p>✔️ Need the library <a href="https://zulko.github.io/moviepy/">moviepy</a></p>
+<p>✔️ Need the library <a href="http://omz-software.com/pythonista/docs/ios/clipboard.html">clipboard</a></p>
 
-<h3><strong>Como instalar as bibliotecas:</strong></h3>
-<blockquote><strong>Obs:</strong> É necessário ter o pip instalado no computador</blockquote>
-<p><strong>1.</strong> Abra o terminal;</p>
-<p><strong>2.</strong> Digite no terminal o seguinte comando: pip install nome_da_biblioteca;</p>
-<p><strong>3.</strong> No código, verifique se as bibliotecas foram importadas corretamente.</p>
+<h3><strong>How to install the libraries:</strong></h3>
+<blockquote><strong>Obs:</strong> You must have pip installed on your computer.</blockquote>
+<p><strong>1.</strong> Open the terminal;</p>
+<p><strong>2.</strong> Enter the following command in the terminal: pip install lib_name;</p>
+<p><strong>3.</strong> In your code, verify that the libraries were imported correctly.</p>
 
-<h3><strong>Observações:</strong></h3>
-<p>• <i>icon.ico</i> é utilizado no ícone do programa.</p>
-<p>• <i>interface.py</i> se refere à interface do programa.</p>
-<p>• <i>youtube_download.py</i> se refere ao funcionamento do download de vídeos.</p>
-<p>• Você pode baixar o arquivo executável do TubeTool na seção de <i>Releases</i> deste repositório.</p>
+<h3><strong>Comments:</strong></h3>
+<p>• <i>icon.ico</i> is used in the program icon.</p>
+<p>• <i>interface.py</i> refers to the program interface.</p>
+<p>• <i>youtube_download.py</i> refers to how video downloading works.</p>
+<p>• You can download the TubeTool executable file from the <i>Releases</i> from this repository.</p>
 
-<h3>Sobre</h3>
-<p>• O programa foi construído 100% na linguagem de programação Python</p>
-<p>• O programa foi construído através do editor de código (Visual Studio Code)</p>
+<h3>About</h3>
+<p>• The program was built 100% in the Python programming language</p>
+<p>• The program was built using the code editor (Visual Studio Code)</p>
 
 <h1></h1>
 
