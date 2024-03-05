@@ -38,8 +38,6 @@
 
 <h2>Skill acquired with this project</h2>
 
-<p align="center">
   <a href="https://github.com/rcknathan">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
-</p>
